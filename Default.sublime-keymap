@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+alt+left"], "command": "group_control_focus_group", "args": { "direction" : "prev" } },
+	{ "keys": ["super+alt+right"], "command": "group_control_focus_group", "args": { "direction" : "next" }},
+	{ "keys": ["super+shift+;"], "command": "group_control_focus_tab", "args": { "direction" : "next" } },
+	{ "keys": ["super+shift+'"], "command": "group_control_focus_tab", "args": { "direction" : "prev" }}
+]
